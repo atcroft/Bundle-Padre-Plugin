@@ -10,11 +10,11 @@ Bundle::Padre::Plugin - A Bundle of Padre::Plugins currently on CPAN.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.011
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.011';
 
 
 =head1 SYNOPSIS
@@ -35,7 +35,11 @@ currently-available Padre::Plugin::* modules on CPAN. (2013-10-28)
 
 	Padre::Plugin::CSS 
 
+	Padre::Plugin::CSSComb
+
 	Padre::Plugin::Catalyst 
+
+	Padre::Plugin::ClassSniff
 
 	Padre::Plugin::CommandLine 
 
